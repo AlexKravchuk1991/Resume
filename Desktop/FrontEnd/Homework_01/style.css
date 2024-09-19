@@ -1,0 +1,25 @@
+.block-right{
+    background-color: rgb(52, 51, 49);
+    color: rgb(248, 248, 248);
+    width: 50%;
+    height: 300 px;
+    float: left;
+    overflow: ;
+
+}
+
+.block-left{
+width: 50%;
+height: 350px;
+overflow: auto;
+
+}
+
+.my_mail{
+    color: white;
+    text-decoration: underline;
+
+}
+
+
+
